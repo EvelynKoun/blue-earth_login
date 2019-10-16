@@ -1,6 +1,6 @@
 <p>This is a login page design with bootstrap 4 and Font Awesome 5.</p>
 
-<a href="https://evelynkoun.github.io/blue_welcome/">Demo</a>
+<a href="https://evelynkoun.github.io/blue_welcome/">Online Demo</a>
 
 <h6>PSD Mockups:</h6>
 
